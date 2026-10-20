@@ -1,7 +1,6 @@
-# LMcombination
-Data and Code for "Strategy-mediated cue combination"
+## Data and Code for "Strategy-mediated cue combination"
 
-The following datasets are the behavioural raw data in the landmarks integration project. 
+### The following datasets are the behavioural raw data in the landmarks integration project. 
 
 CLM_behavioral_raw_data.xlsx  
 For the Compound Learning Group (CLM) in the paper. 
@@ -9,7 +8,7 @@ For the Compound Learning Group (CLM) in the paper.
 SLM_behavioral_raw_data.xlsx  
 For the Single Learning Group (SLM) in the paper. 
 
-Scripts: 
+### Scripts: 
 
 CLM_calculate_mean_resp_location.m  
 SLM_calculate_mean_resp_location.m  
