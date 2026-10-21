@@ -1,4 +1,8 @@
-## Data and Code for "Strategy-mediated cue combination"
+## Data and Code for our paper: 
+
+Du, Y. K., Mou, W., Sutton, J. E., & Butler, B. E. (submitted). Strategy-mediated cue combination in navigation.  
+
+See https://osf.io/nzf2m/files/osfstorage for more information about the project.  
 
 ### The following datasets are the behavioural raw data in the landmarks integration project. 
 
